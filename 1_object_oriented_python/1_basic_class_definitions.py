@@ -1,5 +1,3 @@
-# BASIC CLASS DEFINITIONS
-
 # Create a basic class.
 class Book:
     def __init__(self, title):
